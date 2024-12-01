@@ -1,0 +1,5 @@
+interface Payment {
+
+ void paymentrequest();
+
+}
